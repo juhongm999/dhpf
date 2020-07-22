@@ -1,7 +1,7 @@
 ## Learning to Compose Hypercolumns for Visual Correspondence
 Code will be made available soon.
 
-![](http://cvlab.postech.ac.kr/research/HPF/images/architecture.png)
+![](https://juhongm999.github.io/pic/dhpf.png)
 
 For more information, check out project [[website](http://cvlab.postech.ac.kr/research/DHPF/)] and the paper on [[arXiv](https://arxiv.org/abs/2007.10587)].
 
