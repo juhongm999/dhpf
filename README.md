@@ -1,3 +1,7 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-to-compose-hypercolumns-for-visual/semantic-correspondence-on-spair-71k)](https://paperswithcode.com/sota/semantic-correspondence-on-spair-71k?p=learning-to-compose-hypercolumns-for-visual)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-to-compose-hypercolumns-for-visual/semantic-correspondence-on-pf-pascal)](https://paperswithcode.com/sota/semantic-correspondence-on-pf-pascal?p=learning-to-compose-hypercolumns-for-visual)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-to-compose-hypercolumns-for-visual/semantic-correspondence-on-pf-willow)](https://paperswithcode.com/sota/semantic-correspondence-on-pf-willow?p=learning-to-compose-hypercolumns-for-visual)
+
 # Learning to Compose Hypercolumns for Visual Correspondence
 This is the implementation of the paper "Learning to Compose Hypercolumns for Visual Correspondence" by J. Min, J. Lee, J. Ponce and M. Cho. Implemented on Python 3.7 and PyTorch 1.0.1.
 
