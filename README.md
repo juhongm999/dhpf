@@ -31,6 +31,7 @@ conda install -c anaconda scipy
 conda install -c anaconda pandas
 conda install -c anaconda requests
 conda install -c anaconda scikit-image
+conda install -c anaconda "pillow<7"
 ```
 
 ## Training
